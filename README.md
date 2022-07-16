@@ -1,11 +1,11 @@
 # calculator - Python 
 
-video project :
+# video project :
 
 https://user-images.githubusercontent.com/59862302/179348857-c6c44f6d-17c9-46c2-9b45-5985309e29f7.mp4
 
 
-images :
+# images :
 
 ![1](https://user-images.githubusercontent.com/59862302/174889408-e57210e1-58fd-4ee7-a1b4-b0f926f9a2e5.jpg)
 
