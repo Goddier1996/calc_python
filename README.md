@@ -1,6 +1,6 @@
 # calculator - Python 
 
-# video project :
+# video :
 
 https://user-images.githubusercontent.com/59862302/179348857-c6c44f6d-17c9-46c2-9b45-5985309e29f7.mp4
 
